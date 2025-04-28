@@ -1,3 +1,10 @@
+/*
+print:- 
+*****
+*   *
+*   *
+*****
+*/
 public class Hollow_Rectangle {
   public static void hollow_rect (int totalRows, int totalCols){
     //outer loop for rows
@@ -19,7 +26,5 @@ public class Hollow_Rectangle {
 
   public static void main(String[] args) {
     hollow_rect(4,5);
-    System.out.println();
-    hollow_rect(4,4);
   }
 }

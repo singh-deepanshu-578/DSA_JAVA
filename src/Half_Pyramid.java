@@ -1,3 +1,11 @@
+/*
+ print 
+ 1
+ 12
+ 123
+ 1234
+ */
+
 public class Half_Pyramid {
     public static void main(String[] args) {
         int n=4;
