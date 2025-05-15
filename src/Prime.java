@@ -13,6 +13,7 @@ public class Prime {
         }
         return isPrime;
     }
+    
     public static void main(String[] args) {
         System.out.println(isPrime(5));
         System.out.println(isPrime(3));
