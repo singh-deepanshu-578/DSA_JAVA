@@ -1,3 +1,24 @@
+<h1 align="center">DSA_JAVA</h1>
+
+<p align="center">
+  <em>Master Problem-Solving, Elevate Coding Excellence</em>
+</p>
+
+<p align="center">
+  <img alt="Last Commit" src="https://img.shields.io/badge/last%20commit-may-informational?style=flat-square&logo=git" />
+  <img alt="Java" src="https://img.shields.io/badge/java-100.0%25-blue?style=flat-square&logo=java" />
+  <img alt="Languages" src="https://img.shields.io/badge/languages-1-blueviolet?style=flat-square&logo=github" />
+</p>
+
+<p align="center">
+  <em>Built with the tools and technologies:</em>
+</p>
+
+<p align="center">
+  <img alt="Markdown" src="https://img.shields.io/badge/Markdown-%F0%9F%93%84-lightgrey?style=for-the-badge&logo=markdown" />
+</p>
+
+
 # DSA Journey in Java 🚀
 
 Welcome to my **DSA Learning Repository**!  
