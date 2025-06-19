@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  <img alt="Last Commit" src="https://img.shields.io/github/last-commit/deepanshu-singh/DSA_JAVA?style=flat-square" />
+  <img alt="Last Commit" src="https://img.shields.io/github/last-commit/singh-deepanshu-578/DSA_JAVA?style=flat-square" />
   <img alt="Java" src="https://img.shields.io/badge/java-100.0%25-blue?style=flat-square&logo=java" />
-  <img alt="Languages" src="https://img.shields.io/github/languages/count/deepanshu-singh/DSA_JAVA?style=flat-square" />
+  <img alt="Languages" src="https://img.shields.io/github/languages/count/singh-deepanshu-578/DSA_JAVA?style=flat-square" />
 </p>
 
 <p align="center">
